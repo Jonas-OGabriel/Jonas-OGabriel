@@ -1,15 +1,18 @@
 ## Olá! Eu sou o João Gabriel 👀
 <div>
   <a href="https://github.com/Jonas-OGabriel/"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jonas-OGabriel&count_private=true&theme=dracula&show_icons=true&locale=pt-BR"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonas-OGabriel&count_private=true&theme=dracula&show_icons=true&locale=pt-BR&layout=compact"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Jonas-OGabriel&count_private=true&theme=dracula&show_icons=true&locale=pt-BR"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonas-OGabriel&theme=dracula&layout=compact&locale=pt-BR"/>
+  
 </div>
 
 <div style="display: inline_block"><br>
-   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Icone-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
+  <img align="center" alt="Icone-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
+  <img align="center" alt="Icone-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg">
+  <img align="center" alt="Icone-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg">
+  <img align="center" alt="Icone-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg">
+  <img align="center" alt="Icone-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg">
 </div>
   
   ##
