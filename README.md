@@ -2,7 +2,7 @@
 <div>
   <a href="https://github.com/Jonas-OGabriel/"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jonas-OGabriel&count_private=true&theme=dracula&show_icons=true&locale=pt-BR"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula&locale=pt-BR"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonas-OGabriel&count_private=true&theme=dracula&show_icons=true&locale=pt-BR&layout=compact"/>
 </div>
 
 <div style="display: inline_block"><br>
