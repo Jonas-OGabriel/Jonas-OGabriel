@@ -5,8 +5,8 @@
 <br>
 <div style="display: inline-block">
   <a href="https://github.com/Jonas-OGabriel/"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Jonas-OGabriel&count_private=true&theme=dracula&show_icons=true&locale=pt-BR"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonas-OGabriel&theme=dracula&layout=compact&locale=pt-BR"/>  
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Jonas-OGabriel&count_private=true&theme=dracula&show_icons=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonas-OGabriel&theme=dracula&layout=compact"/>  
 </div>
 
 ## Main Skills
